@@ -13,7 +13,28 @@ Skills
 HTML 5
 CSS 3
 JavaScript (ES 6)
+React
+Node JS
 HTML canvas
 Git, GitHub
 VS Code, Sublime Text
 Adobe Photoshop, Gimp
+
+Code example
+(function printSelf() {
+    console.log('(' + printSelf.toString() + ')()');
+})
+
+Expirience
+My pet-project (HTML, CSS, JavaScript) https://github.com/OrkasST/Snake_remake
+Project from course (React, HTML, CSS, JavaScript) https://github.com/OrkasST/social_network
+
+Education
+Minsk State Architectural and Construction College
+React Way of Samurai 1
+FreeCodeCamp
+
+Languages
+English B2 
+Russian
+Belarusian
